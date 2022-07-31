@@ -1,7 +1,4 @@
 # AUTHOR: LOGAN FLORY
-# METRICS:
-# Runtime: 111ms, faster than 96.46% online submissions
-# Memory Usage: 18.7MB, smaller than 47.47% online submissions
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
